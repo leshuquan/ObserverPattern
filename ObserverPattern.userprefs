@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{702C87D3-A447-447D-8C38-A72ED2620131}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObserverPattern/Program.cs">
+    <Files>
+      <File FileName="ObserverPattern/Program.cs" Line="11" Column="4" />
+      <File FileName="ObserverPattern/ISubject.cs" Line="6" Column="3" />
+      <File FileName="ObserverPattern/IObserver.cs" Line="8" Column="60" />
+      <File FileName="ObserverPattern/IDisplayElement.cs" Line="7" Column="18" />
+      <File FileName="ObserverPattern/WeatherData.cs" Line="23" Column="28" />
+      <File FileName="ObserverPattern/CurrentConditionsDisplay.cs" Line="38" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ObserverPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
